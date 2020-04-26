@@ -1,0 +1,10 @@
+insert into employee (id, name, gender, status) values (1, 'Sonia Causley', 'Female', 'Inactive');
+insert into employee (id, name, gender, status) values (2, 'Gerri Marlen', 'Male', 'Active');
+insert into employee (id, name, gender, status) values (3, 'Manda Plaskett', 'Female', 'Inactive');
+insert into employee (id, name, gender, status) values (4, 'Taddeo Ropert', 'Male', 'Inactive');
+insert into employee (id, name, gender, status) values (5, 'Ernesta Hart', 'Female', 'Inactive');
+insert into employee (id, name, gender, status) values (6, 'Elsworth Van Son', 'Male', 'Active');
+insert into employee (id, name, gender, status) values (7, 'Emmett Hugill', 'Male', 'Inactive');
+insert into employee (id, name, gender, status) values (8, 'Luella Botterman', 'Female', 'Active');
+insert into employee (id, name, gender, status) values (9, 'Georgia Aleso', 'Female', 'Active');
+insert into employee (id, name, gender, status) values (10, 'Brenna Bruff', 'Female', 'Inactive');
